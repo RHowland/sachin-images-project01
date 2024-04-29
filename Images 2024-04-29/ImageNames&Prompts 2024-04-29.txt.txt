@@ -1,0 +1,23 @@
+ -ImageNames&Prompts 2024-04-29.txt
+
+---------------------------------------------------------------------
+Image02.jpg.prompt:- Prompt:
+
+  --Photorealistic Images prompt structure will be in this format
+  ""A luxurious bathroom interior featuring a hyperrealistic depiction
+  of modern fixtures and decor. The bathroom exudes elegance with marble 
+countertops,sleek chrome faucets, and crystal-clear glass shower enclosures.
+  The walls are adorned with tasteful artwork, and soft, ambient lighting
+  ---------------------------------------------------------------------
+
+Image03.jpg.prompt:- Prompt:
+
+--Prompt 1:Photorealistic Images prompt structure will be in this format
+""A luxurious bathroom interior featuring a hyperrealistic depiction of modern fixtures and decor.
+ The bathroom exudes elegance with marble countertops, sleek chrome faucets,
+and crystal-clear glass shower enclosures. The walls are adorned with tasteful artwork,
+and soft, ambient lighting bathes the space in a warm glow.
+The overall aesthetic is sophisticated and inviting.
+Camera: DSLR, Lens: 35mm, Shot: Medium shot, Render: Hyper detailed, HDR, High resolution""
+
+---------------------------------------------------------------------
