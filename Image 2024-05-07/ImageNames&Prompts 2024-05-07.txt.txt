@@ -1,0 +1,49 @@
+ -ImageNames&Prompts 2024-05-07.txt
+
+--------------------------------------------------------------------------------------------------------------------------------
+bathimage0001prompt.txt
+
+--A Photorealistic luxurious bathroom interior featuring a hyperrealistic depiction of modern fixtures and
+ decor with a green theme, The bathroom exudes elegance with marble countertops, sleek chrome faucets,
+ and crystal-clear glass shower enclosures. Bathroom sink, ambient lighting bathes the space in a warm glow.
+ The overall aesthetic is sophisticated and inviting. Medium shot, Render: Hyper detailed, HDR, High resolution
+
+Negative Promp:Big windows, window without curtains, confused to understand, miss match the color elementsBig windows,
+
+------------------------------------------------------------------------------------------------------------------------------------
+bathimage0002prompt.tx
+
+  --A Photorealistic luxurious bathroom interior featuring a hyperrealistic depiction of classy fixtures and decor
+ with an aesthetic theme, The bathroom exudes elegance with marble countertops, sleek chrome faucets,
+ and crystal-clear glass shower enclosures. A toilet sea, Bathroom sink, ambient lighting bathes the space in a warm glow.
+ The overall aesthetic is sophisticated and inviting. High resolution 
+
+ Negative Promp: 
+ Big windows, window without curtains, confused to understand, miss match the color elements, double of things
+  ---------------------------------------------------------------------------------------------------------------------------------
+bathimage0003prompt.tx
+
+
+--A Photorealistic luxurious bathroom interior featuring a hyperrealistic
+ depiction of modern fixtures and decor with a mickey theme,
+ The bathroom exudes elegance with marble countertops, sleek chrome faucets,
+ and crystal-clear glass shower enclosures.  Bathroom sink, ambient lighting
+ bathes the space in a warm glow. The overall aesthetic is sophisticated and
+ inviting. Medium shot, Render: Hyper detailed, HDR, High resolution
+ white crystal bathroom design the wall should be outstanding look and very fancy.
+
+Negative Promp:
+Big windows, window without curtains, confused to understand, miss match the color elements, double of things 
+
+------------------------------------------------------------------------------------------------------------------------------------
+bathimage0004prompt.tx
+
+  --Prompt 1:Photorealistic Images prompt structure will be in this format
+""A hyperrealistic depiction of a fully modern bathroom with exceptional lighting and flooring.
+ The scene features sleek fixtures and contemporary design elements, including a toilet, bathtub,
+ and basin. The lighting design is impeccable, with recessed lights and statement fixtures enhancing.
+
+ Negative Promp: 
+ Big windows, window without curtains, confused to understand, miss match the color elements, double of things
+  ---------------------------------------------------------------------------------------------------------------------------------
+
