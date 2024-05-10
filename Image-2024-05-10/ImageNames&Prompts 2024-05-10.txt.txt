@@ -1,0 +1,47 @@
+   ImageNames&Prompts 2024-05-10.txt
+
+--------------------------------------------------------------------------------------------------------------------------------
+bathimage0005prompt.txt
+
+ Photorealistic Images prompt structure will be in this format
+""Luxury Bathroom with Bath tub and , Separate Toilet Seat
+ Section elegant lighting, Bathroom Sink with Circle Mirror,
+ Well Decor, Camera, Shot, Render Related Information""
+
+Negative Promp:
+Low quality, worst quality, cartoon, animated, unreal, no window, unreal to see, not matching the whole bathroom texture.
+
+------------------------------------------------------------------------------------------------------------------------------------
+bathimage0006prompt.tx
+
+ Artistic Image Images prompt structure will be in this format
+"Luxury Bathroom with Separate Bath Area and Shower,
+ Separate Toilet Seat Section, Bathroom Sink with Circle Mirror,
+ Well Decor, Black Door Mat"", Art Styles, Art Inspirations,
+ Camera, Shot, Render Related Information""
+
+ Negative Promp: 
+ Low quality, worst quality, cartoon, animated, unreal, no window, unreal to see, not matching the whole bathroom texture.
+  ---------------------------------------------------------------------------------------------------------------------------------
+bathimage0007prompt.tx
+
+Photorealistic Images prompt structure will be in this format
+""Bathroom with Warm Lighting, Black and Wooden Texture Style""
+Art Styles, Art Inspirations, Camera, Shot, Render Related Information""
+
+Negative Promp:
+Low quality, worst quality, cartoon, animated, unreal, no window, unreal to see, not matching the whole bathroom texture. 
+
+------------------------------------------------------------------------------------------------------------------------------------
+bathimage0008prompt.tx
+
+ Artistic Image Images prompt structure will be in this format
+ ""Luxury Bathroom with Separate Bath Area and Shower,
+ Separate Toilet Seat Section, Bathroom Sink with Circle Mirror,
+ Well Decor, Black Door Mat"", Art Styles, Art Inspirations, Camera,
+ Shot, Render Related Information""
+
+  
+ Negative Promp: Low quality, worst quality, cartoon, animated, unreal, no window, unreal to see, not matching the whole bathroom texture.
+  ---------------------------------------------------------------------------------------------------------------------------------
+
